@@ -1,0 +1,41 @@
+.history-list-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  padding: 7px;
+}
+.history-search-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.delete-image {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+.search-para {
+  font-size: 12px;
+  margin-right: 17px;
+}
+.search-title {
+  font-size: 10px;
+  margin-right: 11px;
+  color:#475569;
+  font-weight:bold; 
+  margin-top:2px;
+}
+.search-url {
+  font-size: 12px;
+  color: #64748b;
+}
+.button {
+  background-color: #f8fafc;
+  border-width: 0px;
+  outline: none;
+}
